@@ -616,10 +616,10 @@ p {
   
     }
   
-    .main__wrapper__speaker {
+    .main__wrapper {
       margin-bottom: 16rem;
       display: flex;  
-      margin-top: -15rem;
+      margin-top: 15rem;
     }
 
     .main__text__2__speaker {
