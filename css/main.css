@@ -507,8 +507,7 @@ p {
   opacity: 0.5;
   width: 445px;
   margin-right: 125px;
-}/*# sourceMappingURL=main.css.map */
-
+}
 /* HEADPHONES MAIN */
 .main__text {
   margin-left: 12.5rem;
@@ -588,3 +587,44 @@ p {
     width: 445px;
     margin-right: 125px;
   }
+
+
+  /* speaker main */
+  .main__text__speaker {
+    width: 465px;
+  margin-bottom: 13rem;
+  margin-left: 9.5rem;
+
+    }
+    h2{
+      margin-left: auto;
+      padding-left: -8.5rem;
+    }
+
+    .new__speaker {
+  padding-top: 7rem;
+  padding-bottom: 2.5rem;
+    }
+
+    .new__speaker {
+      font-weight: 400;
+      color: #D87D4A;
+      font-size: 1.2rem;
+      line-height: 1.9rem;
+      letter-spacing: 1rem;
+      width: 445px;height: 100px;
+  
+    }
+  
+    .main__wrapper__speaker {
+      margin-bottom: 16rem;
+      display: flex;  
+      margin-top: -15rem;
+    }
+
+    .main__text__2__speaker {
+      
+      margin-top: 3rem;
+      margin-left: auto;
+      margin-right: 15rem;
+}/*# sourceMappingURL=main.css.map */
