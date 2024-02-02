@@ -1,0 +1,252 @@
+.hero {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7rem;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.hero__text {
+    color: aliceblue;
+margin-right: auto;
+padding-left: 1rem;
+align-items: center;
+}
+h4 {
+    font-weight: 400;
+    color: #fff;
+    font-size: 0.9rem;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+    opacity: 0.4964;
+    margin-bottom: 2.4rem;
+}
+
+h2 {
+    font-size: 4.1rem;
+    font-weight: 700;
+    line-height: 4rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 2rem;
+    opacity: 0.75;
+    margin-bottom: 2rem;
+}
+.main__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+    text-align  : center;
+
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -24%;
+        margin-bottom: 36px;
+    }
+
+    .middle {
+        margin-top: -21%;
+    }  
+
+   .last {
+    margin-top: -17%;
+   }
+}
+
+.main__shop {
+    width: 350px;
+    height: 204px;
+    background-color: #F1F1F1;
+    border-radius: 8px;
+    margin-bottom: 168px;
+    
+}
+
+.main {
+  
+    h3 {
+        color: #000;
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 1.286px;
+        text-transform: uppercase;
+    }
+
+    h5 {
+        cursor: pointer;
+        margin-top: 1rem;
+        color: #000;
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        gap: 14px; 
+        i{
+            color:#D87D4A;
+        }
+
+     
+    }
+    h5:hover {
+        color: #D87D4A;
+    }
+}
+
+.main__second {
+    background-image: url("../lg/Oval\ Copy\ 2.svg");    
+    background-repeat: no-repeat;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #D87D4A;
+    border-radius: 8px;
+    height: 560px;
+    width: 1110px;;
+    display: flex;
+    margin-bottom: 40px;
+    img {
+        margin-left: 118px;
+    margin-top: 98px;
+    }
+.main__text {
+    p{
+        margin-top: 2rem;
+    }
+  margin-left: 165px;
+}
+
+h2 {
+    padding-right: 133px;
+    color: #fff;
+    margin-top: 133px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+ p {
+    margin-top: -24px;
+    width: 349px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 25px;
+    opacity: 0.75;
+    margin-bottom: 40px;
+ }
+
+
+
+
+}
+
+.main__third{
+    background-image: url("../images/home/desktop/image-speaker-zx7.jpg");
+    background-repeat: no-repeat;
+    height: 320px;
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 40px;
+
+    .main__label {
+        padding-top: 101px;
+        padding-left: 95px;
+        
+        h2{
+            color: #000;
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 32px;
+        }
+
+ 
+    }
+ }
+.main__fourth {
+    margin-bottom: 200px;
+
+    .btn-black {
+        margin-left: 5.9rem;
+    padding-bottom: -3rem;
+    }
+}
+
+.fourth__wrapper {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    img {
+        border-radius: 8px;
+    }
+}
+
+
+ .fourth__shop {
+    width: 540px;
+    height: 320px;
+    background-color: #F1F1F1;
+    border-radius: 8px;
+
+    h2 {
+        padding-top: 101px ;
+        padding-left: 95px;
+        font-size: 28px;
+        color: #000;
+        font-weight: 700;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin-bottom: 32px;
+    }
+
+
+ }
+
+ .main__last {
+   display: flex;
+   align-items: center;
+  justify-content: center;
+  margin-bottom: 200px;
+
+  img{
+    border-radius: 8px;
+    
+  }
+   .last__wrapper{
+    h2 {
+        color: #000;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 44px;
+        letter-spacing: 1.429px;
+        text-transform: uppercase;
+
+        span {
+            color:#D87D4A
+        }
+    }
+
+   p{
+     color: #000;
+     font-size: 15px;
+     line-height: 25px;
+     opacity: 0.5;
+     width: 445px;
+     margin-right:125px ;
+   }
+ }
+}
+
+

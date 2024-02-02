@@ -1,0 +1,49 @@
+* {
+    @include reset;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    height: 100%;
+}
+
+img {
+    display: flex;
+    object-fit: cover;
+}
+
+.counter {
+    background-color: $silver-color;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: $black-color;
+    padding: 1.5rem;
+    gap: 2.1rem;
+    align-items: center;
+    display:inline-block;
+    width: 120px;
+   text-align: center;
+
+   span {
+    width: 16px;
+    height: 18px;
+    display: inline-block;
+   }
+
+   button {
+    background: 0;
+    border: 0;
+    cursor: pointer;
+    color: $black-color;
+    opacity: 0.25;
+    width: 16px;
+    height: 18px;
+   }
+}
