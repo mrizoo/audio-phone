@@ -1,0 +1,224 @@
+.main__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+    text-align: center;
+  }
+  .main__wrapper img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -24%;
+    margin-bottom: 36px;
+  }
+  .main__wrapper .middle {
+    margin-top: -21%;
+  }
+  .main__wrapper .last {
+    margin-top: -17%;
+  }
+  
+  .main__shop {
+    width: 350px;
+    height: 204px;
+    background-color: #F1F1F1;
+    border-radius: 8px;
+    margin-top: 255px;
+    margin-bottom: 168px;
+  }
+  
+  .main h3 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1.286px;
+    text-transform: uppercase;
+  }
+  .main h5 {
+    cursor: pointer;
+    margin-top: 1rem;
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    gap: 14px;
+  }
+  .main h5 i {
+    color: #D87D4A;
+  }
+  .main h5:hover {
+    color: #D87D4A;
+  }
+  
+  .main__second {
+    background-image: url("../lg/Oval Copy 2.svg");
+    background-repeat: no-repeat;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #D87D4A;
+    border-radius: 8px;
+    height: 560px;
+    width: 1110px;
+    display: flex;
+    margin-bottom: 40px;
+  }
+  .main__second img {
+    margin-left: 118px;
+    margin-top: 98px;
+  }
+  .main__second .main__text {
+    margin-left: 165px;
+  }
+  .main__second .main__text p {
+    margin-top: 2rem;
+  }
+  .main__second h2 {
+    padding-right: 133px;
+    color: #fff;
+    margin-top: 133px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .main__second p {
+    margin-top: -24px;
+    width: 349px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 25px;
+    opacity: 0.75;
+    margin-bottom: 40px;
+  }
+  
+  .main__third {
+    background-image: url("../images/home/desktop/image-speaker-zx7.jpg");
+    background-repeat: no-repeat;
+    height: 320px;
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 40px;
+  }
+  .main__third .main__label {
+    padding-top: 101px;
+    padding-left: 95px;
+  }
+  .main__third .main__label h2 {
+    color: #000;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+  }
+  
+  .main__fourth {
+    margin-bottom: 200px;
+  }
+  .main__fourth .btn-black {
+    margin-left: 5.9rem;
+    padding-bottom: -3rem;
+  }
+  
+  .fourth__wrapper {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+  }
+  .fourth__wrapper img {
+    border-radius: 8px;
+  }
+  
+  .fourth__shop {
+    width: 540px;
+    height: 320px;
+    background-color: #F1F1F1;
+    border-radius: 8px;
+  }
+  .fourth__shop h2 {
+    padding-top: 101px;
+    padding-left: 95px;
+    font-size: 28px;
+    color: #000;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+  }
+  
+  .main__last__3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 200px;
+  }
+  
+  
+  .main__last__3 img {
+    border-radius: 8px;
+  }
+  .main__last__3 .last__wrapper__3 h2 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 1.429px;
+    text-transform: uppercase;
+  }
+  .main__last__3 .last__wrapper__3 h2 span {
+    color: #D87D4A;
+  }
+  .main__last__3 .last__wrapper__3 p {
+    color: #000;
+    font-size: 15px;
+    line-height: 25px;
+    opacity: 0.5;
+    width: 445px;
+    margin-right: 125px;
+  }
+  
+  .main__little {
+    margin-top: 12rem;
+  }
+  
+  
+  .main__last {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 200px;
+  }
+  
+  
+  .main__last img {
+    border-radius: 8px;
+  }
+  .main__last .last__wrapper h2 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 1.429px;
+    text-transform: uppercase;
+  }
+  .main__last .last__wrapper h2 span {
+    color: #D87D4A;
+  }
+  .main__last .last__wrapper p {
+    color: #000;
+    font-size: 15px;
+    line-height: 25px;
+    opacity: 0.5;
+    width: 445px;
+    margin-right: 125px;
+  }
+  
+  
+  .word {
+   margin-bottom: 5rem;
+  }
+  

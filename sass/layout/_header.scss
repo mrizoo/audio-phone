@@ -1,158 +1,162 @@
 /* HEADER STARTED */
 .container {
-    max-width: 1210px;
-    width: 100%;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .content {
-    max-width: 100%;
-    width: 100%;
-    height: 100vh;
-    background: #0E0E0E;
-    background-image: url("../images/home/desktop/image-hero.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 45rem;
-    object-fit: cover;
-    /* margin-top: 3rem; */
-    margin-bottom: 12rem; 
-  }
-  
-  header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1.8rem 0px;
-    border-bottom: 1px solid rgba(255 , 255,255, 0.2); 
-    margin-bottom: 5rem; 
-  }
-  
-  .sitenav__item {
-    display: flex;
-    gap: 2.4rem;
-    margin-left: -1px;
-  
-  }
-  
-  .sitenav__link {
-    color: #fff;
-    font-size: 1.3rem;
-    font-weight: 700;
-    line-height: 2.5rem;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-  }
-  
-  .sitenav__link:hover {
-  color: #D87D4A;
-  }
-  
+  max-width: 1210px;
+  width: 100%;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content {
+  max-width: 100%;
+  width: 100%;
+  height: 100vh;
+  background: #0e0e0e;
+  background-image: url("../images/home/desktop/image-hero.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 45rem;
+  object-fit: cover;
+  /* margin-top: 3rem; */
+  margin-bottom: 12rem;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.8rem 0px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  margin-bottom: 5rem;
+}
+
+.sitenav__item {
+  display: flex;
+  gap: 2.4rem;
+  margin-left: -1px;
+}
+
+.sitenav__link {
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.sitenav__link:hover {
+  color: #d87d4a;
+}
+
 //   =============  HEADER ==> HEADPHONES   =================
 
 .container__headphone {
-    max-width: 1210px;
-    width: 100%;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .content__headphone {
-    max-width: 100%;
-    width: 100%;
-    height: 100vh;
-    background: #0E0E0E;
-    height: 30.6rem;
-    object-fit: cover;
-    margin-bottom: 12rem; 
+  max-width: 1210px;
+  width: 100%;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content__headphone {
+  max-width: 100%;
+  width: 100%;
+  height: 100vh;
+  background: #0e0e0e;
+  height: 30.6rem;
+  object-fit: cover;
+  margin-bottom: 12rem;
 
-    .headphones {
-        text-align: center;
-        color: $white-color;
-        font-weight: 700;
-        font-size: 4rem;
-        line-height: 4.4rem;
-        letter-spacing: 1.43px;
-        padding-top: 5.8rem;
-
-    }
+  .headphones {
+    text-align: center;
+    color: $white-color;
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 4.4rem;
+    letter-spacing: 1.43px;
+    padding-top: 5.8rem;
   }
+}
 //   SPEAKER HEADER
 .container__speaker {
-    max-width: 1210px;
-    width: 100%;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .content__speaker {
-    max-width: 100%;
-    width: 100%;
-    height: 100vh;
-    background: #0E0E0E;
-    height: 30.6rem;
-    object-fit: cover;
-    margin-bottom: 16rem; 
-  }
-    .speaker {
-        text-align: center;
-        color: $white-color;
-        font-weight: 700;
-        font-size: 4rem;
-        line-height: 4.4rem;
-        letter-spacing: 1.43px;
-        padding-top: 5.8rem;
-  }
+  max-width: 1210px;
+  width: 100%;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content__speaker {
+  max-width: 100%;
+  width: 100%;
+  height: 100vh;
+  background: #0e0e0e;
+  height: 30.6rem;
+  object-fit: cover;
+  margin-bottom: 16rem;
+}
+.speaker {
+  text-align: center;
+  color: $white-color;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 4.4rem;
+  letter-spacing: 1.43px;
+  padding-top: 5.8rem;
+}
 
 //   earphones
 .container__headphone {
-    max-width: 1210px;
-    width: 100%;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .content__headphone {
-    max-width: 100%;
-    width: 100%;
-    height: 100vh;
-    background: #0E0E0E;
-    height: 30.6rem;
-    object-fit: cover;
-    margin-bottom: 16rem; 
-  }
-    .headphones {
-        text-align: center;
-        color: $white-color;
-        font-weight: 700;
-        font-size: 4rem;
-        line-height: 4.4rem;
-        letter-spacing: 1.43px;
-        padding-top: 5.8rem;
-  }
+  max-width: 1210px;
+  width: 100%;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content__headphone {
+  max-width: 100%;
+  width: 100%;
+  height: 100vh;
+  background: #0e0e0e;
+  height: 30.6rem;
+  object-fit: cover;
+  margin-bottom: 16rem;
+}
+.headphones {
+  text-align: center;
+  color: $white-color;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 4.4rem;
+  letter-spacing: 1.43px;
+  padding-top: 5.8rem;
+}
 
 // headphone in
 
 .content__headphone1 {
-    max-width: 100%;
-    width: 100%;
-    height: 100vh;
-    background: #0E0E0E;
-    height: 6.2rem;
-    object-fit: cover;
-    margin-bottom: 16rem; 
-  }
-  .container__headphone1 {
-    max-width: 1210px;
-    width: 100%;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    margin-left: auto;
-    margin-right: auto;
- 
-  }
+  max-width: 100%;
+  width: 100%;
+  height: 100vh;
+  background: #0e0e0e;
+  height: 6.2rem;
+  object-fit: cover;
+  margin-bottom: 16rem;
+}
+.container__headphone1 {
+  max-width: 1210px;
+  width: 100%;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header__img {
+  position: relative;
+   .modal-cart {
+    margin-left: -22rem;
+   }
+}
